@@ -1,8 +1,8 @@
 # Menu Bar Breathing
 
-A tiny macOS menu bar app that helps you remember to breathe.
+A tiny and completely unobtrusive menu-bar macOS menu bar app that helps you remember to breathe.
 
-![](/menu-bar.gif)
+![](/app.gif)
 
 ## Release for macOS
 
